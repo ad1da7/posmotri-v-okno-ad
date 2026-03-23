@@ -26,4 +26,4 @@
 :focus-visible при клике мышью или тачпадом.
 
 ## [Ссылка на макет &rarr;](https://www.figma.com/file/QHcvX1RsUI89CulRB7HLk6/%234-Посмотри-в-окно?node-id=0%3A1&t=tJOMMSaw5EIu481X-1)
-## [Ссылка на сайт проектной работы &rarr;](https://olga-kozhevina.github.io/posmotri-v-okno/)
+## [Ссылка на сайт проектной работы &rarr;](https://ad1da7.github.io/posmotri-v-okno/)
