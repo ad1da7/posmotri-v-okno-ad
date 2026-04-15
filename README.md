@@ -1,1 +1,1 @@
-https://github.com/ad1da7
+http://github.com/ad1da7/posmotri-v-okno-ad
